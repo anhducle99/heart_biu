@@ -214,7 +214,6 @@ function Next() {
 
 function Rise() {
  
-  console.log('开始升空')
   let timer2 = null,
     distance = 0
   const target = 120,
@@ -231,7 +230,6 @@ function Rise() {
     if (distance >= target) {
       clearInterval(timer2)
 
-      console.log('升空完毕')
     }
 
     love.style.top = love_top - distance + 'px'
