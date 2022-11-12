@@ -47,13 +47,14 @@ body {
     position: absolute;
     visibility: hidden; 
     background-color: yellow;
+    background-image: url(./315173384_805700630728817_6571831954407643808_n\ \(1\).jpg);
 }
 
 .love .block div {
     width: 40px;
     height: 40px;
     position: absolute;
-    background: url("./42fbef3e1fcee8e4d3bb88881ca736f2.jpg") no-repeat;
+    background: url("./315173384_805700630728817_6571831954407643808_n\ \(1\).jpg") no-repeat;
     background-size: contain;
 
     box-sizing: border-box;
